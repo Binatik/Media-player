@@ -1,0 +1,12 @@
+.player {
+    display: flex;
+    font-size: 0;
+}
+
+.player__btn {
+    flex: 1 1 33%;
+    padding: 15px 0;
+    margin: 0 10px;
+    font-size: 18px;
+    color: #c6ced6;
+}
