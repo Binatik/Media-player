@@ -5,3 +5,16 @@
 html {
     background-color: #0d1117;
 }
+
+.x-btn {
+    cursor: pointer;
+    background-color: #21262d;
+    border-radius: 3px;
+    border: 1px solid #30363d;
+    transition: 0.2s;
+}
+
+.x-btn:hover {
+    background-color: #30363d;
+    border: 1px solid #8a939d;
+}
